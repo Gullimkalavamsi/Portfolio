@@ -2,7 +2,7 @@
 
 Welcome to the repository for Gullimkala Naga Venkata Vamsi's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
 
-Click Here to see  👉[My Portfolio](https://gullimkalavamsi.github.io/Portfolio/)👈
+Click Here to see  👉[My Portfolio](https://gullimkalavamsi.github.io/NagaVenkataVamsi-Portfolio-Main/)👈
 
 
 ## Table of Contents 📋
